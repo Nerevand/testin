@@ -7,7 +7,7 @@ import {NavLink} from 'react-router-dom';
 class Header extends Component {
   render() {
     return (
-      <header className="header" id="header" name="home">
+      <header className="header" id="header">
         <nav className="header-nav">
           <input className="header-nav__checkbox" type="checkbox" id="burger" />
           <label className="header-nav__menu" htmlFor="burger" />

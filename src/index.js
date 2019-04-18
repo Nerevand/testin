@@ -29,10 +29,8 @@ ReactDOM.render((
                  <Route path='/environment' component={Environment} />
                  <Route path='/technology' component={Solar} />
                  <Route path='/space' component={Space} />
-                <Route exact path='*' component={Home} />
+                 <Route path='*' component={Home} />
             </Switch>
         </App>
     </BrowserRouter>
 ), document.getElementById("root"));
-
-serviceWorker.unregister();

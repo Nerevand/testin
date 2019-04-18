@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import "./Footer.css";
 import list from "./footer-list";
 import FooterList from "./components/FooterList";
-import { Link } from 'react-scroll'
+import { Link } from 'react-scroll';
 
 class Footer extends Component {
   render() {

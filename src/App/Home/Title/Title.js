@@ -6,7 +6,7 @@ import ListComponent from "./components/ListComponent";
 class Header extends Component {
   render() {
     return (
-      <section className="text">
+      <section className="text" name="home">
         <div className="text-title">
           <h3 className="text-title__h3">top stories</h3>
           <h1 className="text-title__h1">

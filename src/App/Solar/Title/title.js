@@ -5,7 +5,7 @@ import { Link } from 'react-scroll'
 class Title extends Component {
     render(){
         return (
-            <header className='solar'>
+            <header className='solar' name="home">
                 <h1 className="solar-h1">
                     Solar panel, all your energy needs
                 </h1>
