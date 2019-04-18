@@ -1,0 +1,13 @@
+.spaceHeader {
+    width: 100%;
+    height: auto;
+    background-image: url('../../../assets/space/title.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.spaceHeader-h1 {
+    color: #fff;
+    text-align: center;
+    margin: 17vw 0 29vw 0;
+}

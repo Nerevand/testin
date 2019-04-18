@@ -1,0 +1,22 @@
+.solar-block {
+    width: 30%;
+    cursor: pointer;
+    margin: 10px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.solar-block:hover {
+    box-shadow: -2px -1px 13px 0px rgba(0,0,0,0.75); 
+}
+.solar-block__img {
+    width: 100%;
+}
+.solar-block__h3,
+.solar-block__p {
+    text-align: justify;
+    width: 90%;
+}
+.solar-block__p {
+    margin: 0;
+}

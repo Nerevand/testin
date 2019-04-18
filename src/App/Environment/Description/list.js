@@ -1,0 +1,9 @@
+const list = [
+    'The United States Geological Survey (USGS) has ominously said that Southern California is overdue for a major earthquake along the Grapevine just next to Los Angeles. According to its new analysis, significant quakes there happen once a century, which means that the region is 60 years “overdue”.',
+    'The study, published in the Journal of Geophysical Research: Solid Earth, does have a key caveat, though. The once-a-century average comes from a careful analysis of 1,200 years’ worth of earthquake data recorded in the rock around and in San Andreas, but it’s important to note that it’s a very rough average.',
+    'In terms of quakes on this stretch of the fault, “individual intervals range from 22 to 186 years,” which means that an earthquake could take place anytime today or not for another few decades.',
+    'As for the kind of earthquake they predict, the geological history suggests that it’ll unfortunately be a 7.5M – something that will do a lot of damage to any city it’s nearby when it strikes. When it does, it’s near-certain that it will rupture the land alongside it for hundreds of kilometers, and land will be completely shifted in one direction or another by about 2.7 meters (around 9 feet).',
+    '“There’s no getting out of this,” USGS geologist and lead researcher, Kate Scharer, told The Los Angeles Times. “This [earthquake] would be broadly felt across the basin. It would impact our ability to be a world-class city.”',
+    'The San Andreas Fault is not a single fault line, but a network of them. Every now and then, an extension of it, or a peripheral fault, is discovered and heavily scrutinized.'
+];
+export default list;

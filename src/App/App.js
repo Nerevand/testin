@@ -1,25 +1,18 @@
-import React, { Component, Fragment } from "react";
+import React, { Fragment } from "react";
 import "./App.css";
-import Header from "./Header/Header";
-import Title from "./Title/Title";
-import Slider from "./Slider/Slider";
-import Content from "./Content/Content";
-import Subscribe from "./Subscribe/Subscribe";
-import Footer from "./Footer/Footer";
+import Header from "./Home/Header/Header";
+import Subscribe from "./Home/Subscribe/Subscribe";
+import Footer from "./Home/Footer/Footer";
 
-class App extends Component {
-  render() {
+const App = ({children}) => {
     return (
       <Fragment>
         <Header />
-        <Title />
-        <Slider />
-        <Content />
+          {children}
         <Subscribe />
         <Footer />
       </Fragment>
     );
-  }
 }
 
 export default App;

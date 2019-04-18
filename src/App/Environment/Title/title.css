@@ -1,0 +1,27 @@
+.environment {
+    width: 100%;
+    height: 100vh;
+    background-image: url('../../../assets/envi/main.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.environment-title{
+    margin: 15vw 0 0 2.5vw;
+    font-size: 3vw;
+    background-color: rgba(82, 82, 82, 0.4);
+    width: 70%;
+    color: #fff;
+}
+.environment-subtitle {
+    width: 70%; 
+    margin-left: 2.5vw;
+    background-color: rgba(82, 82, 82, 0.4);
+    color: #fff;
+    font-size: 2vw;
+}
+.environment-link {
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    text-decoration: underline;
+}
