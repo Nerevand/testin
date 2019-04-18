@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/testin/static/media/physics.b8a167a8.png"
   },
   {
-    "revision": "2905925c8c30f388ff1a",
+    "revision": "40d6266a639cf72f9713",
     "url": "/testin/static/css/main.aced4d78.chunk.css"
   },
   {
@@ -60,8 +60,8 @@ self.__precacheManifest = [
     "url": "/testin/static/media/slide4.987e9474.png"
   },
   {
-    "revision": "2905925c8c30f388ff1a",
-    "url": "/testin/static/js/main.85ed5237.chunk.js"
+    "revision": "40d6266a639cf72f9713",
+    "url": "/testin/static/js/main.ae1dbd47.chunk.js"
   },
   {
     "revision": "e2ef238c531091b074a876115e33c672",
@@ -116,7 +116,7 @@ self.__precacheManifest = [
     "url": "/testin/static/media/title.fe675076.jpg"
   },
   {
-    "revision": "532aa5960aa39bbc2cc6e73ae218e142",
+    "revision": "988a683915f3d5ee8c033e7620a42a08",
     "url": "/testin/index.html"
   }
 ];
