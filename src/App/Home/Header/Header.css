@@ -22,7 +22,7 @@
 .header-nav__logo{
     font-weight: bold;
     font-size: 2vw;
-    color: #20212f;
+    color: red;
     cursor: pointer;
     text-decoration: none;
 }
