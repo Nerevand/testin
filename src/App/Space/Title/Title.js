@@ -6,7 +6,7 @@ class Title extends Component {
          return (
             <header className='spaceHeader' name="home">
                 <h1 className='spaceHeader-h1'>
-                    Here you can read some info about planets
+                    Here you can read some info about space
                 </h1>
             </header>
         );

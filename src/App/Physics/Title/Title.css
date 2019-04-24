@@ -1,0 +1,15 @@
+.physicsTitle {
+    width: 100%;
+    height: 50vh;
+    background-image: url('../../../assets/physics/main.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.physicsTitle-title {
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 30px;
+}

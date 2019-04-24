@@ -1,14 +1,12 @@
 import React, { Fragment } from 'react';
 import Title from './Title/Title';
-import About from './About/About';
 
-function Space(props) {
+function Physics(props) {
     return (
         <Fragment>
             <Title />
-            <About />
         </Fragment>
     );
 }
 
-export default Space;
+export default Physics;

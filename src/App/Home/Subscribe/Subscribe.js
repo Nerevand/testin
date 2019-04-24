@@ -42,7 +42,7 @@ class Subscribe extends Component {
               type="text"
               placeholder="beamazing@gmail.com"
               pattern="[a-zA-Z0-9.-_]{4,}@[a-zA-Z.-]{2,}[.][a-zA-Z]{2,}"
-              value={inputText}
+              defaultValue={inputText}
               onChange={this.handleChange}
               required
             />
